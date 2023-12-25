@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Win the finals",
+      "isFav": true
+    },
+    {
+      "id": 2,
+      "title": "Study some Inflearn lectures",
+      "isFav": false
+    },
+    {
+      "id": 4,
+      "title": "Become the Elden Lord",
+      "isFav": true
+    },
+    {
+      "id": 5,
+      "title": "Study some coding bro",
+      "isFav": false
+    },
+    {
+      "id": 6,
+      "title": "Pinia BABY",
+      "isFav": false
+    }
+  ]
+}
