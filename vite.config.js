@@ -6,9 +6,9 @@ import vue from '@vitejs/plugin-vue';
 // https://vitejs.dev/config/
 export default defineConfig({
   base: 'pinia-task-demo',
-  build: {
-    outDir: 'docs',
-  },
+  // build: {
+  //   outDir: 'docs',
+  // },
   plugins: [vue()],
   resolve: {
     alias: {
